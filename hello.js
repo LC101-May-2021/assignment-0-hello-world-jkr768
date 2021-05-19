@@ -5,3 +5,6 @@ function hello() {
 }
  
 module.exports = hello;
+console.log(hello(
+  
+))
